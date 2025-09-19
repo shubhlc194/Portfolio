@@ -31,20 +31,20 @@ const Navbar = () => {
           <div className="w-full bg-transparent py-4 flex flex-col items-center"> {/* This container holds the text without opacity changes */}
             <a href="#about-me" className="py-2 text-lg" onClick={() => setIsOpen(false)}>About me</a>
             <a href="#skills" className="py-2 text-lg" onClick={() => setIsOpen(false)}>Skills</a>
-            <a href="#experience" className="py-2 text-lg" onClick={() => setIsOpen(false)}>Experience</a>
+            {/* <a href="#experience" className="py-2 text-lg" onClick={() => setIsOpen(false)}>Experience</a> */}
             <a href="#projects" className="py-2 text-lg" onClick={() => setIsOpen(false)}>Projects</a>
           </div>
         </div>
 
         {/* Social Links */}
         <div className="flex flex-row gap-5">
-          <Link href="https://x.com/hey_itsyashika">
+          <Link href="https://x.com/ShubhamCha19045">
             <FaTwitter color="white" />
           </Link>
-          <Link href="mailto:mehndirattayashika5@gmail.com">
+          <Link href="shubhamchoudhary2907@gmail.com">
             <MdEmail color="white" />
           </Link>
-          <Link href="https://github.com/y4sh1k4">
+          <Link href="https://github.com/shubhlc194">
             <FaGithub color="white" />
           </Link>
         </div>

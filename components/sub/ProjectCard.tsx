@@ -10,8 +10,6 @@ interface Props {
   link: string;
 }
 
-
-
 const ProjectCard = ({ src, title, description, link }: Props) => {
   const printLog=()=>{
     console.log(link)

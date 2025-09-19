@@ -36,7 +36,7 @@ const HeroContent = () => {
             Hey, I am 
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              YASHIKA{" "}
+              Shubham Chaudhary{" "}
             </span>
           </span>
         </motion.div>
@@ -50,7 +50,7 @@ const HeroContent = () => {
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
-          href="https://drive.google.com/file/d/11Ez6BUp63PtOlCv84hkLtocpKw5cehk0/view"
+          href="https://drive.google.com/file/d/1IuSQiKQLmu6rdYBPJ2JWWnLX-jSfLfD2/view?usp=sharing"
         >
           Learn More!
         </motion.a>
