@@ -7,7 +7,7 @@ const Projects = () => {
   const projects = [
     {
       href: "https://metapong.xyz",
-      src: "/metapong.png",
+      src: "/sc",
       title: "Metapong",
       description:
         "Metapong is an immersive web-based game that blends interactive animations and 3D elements on the XFI ecosystem. It delivers a visually dynamic experience.",
