@@ -4,17 +4,17 @@ import ProjectCard from "../sub/ProjectCard";
 import Link from "next/link";
 
 const Projects = () => {
-  const projects = [
+ const projects = [
     {
       href: "https://intervio-ai-bqpv.vercel.app/",
-      src: "/intervio.png",
+      src: "/ai-resume-builder.png",
       title: "INTERVIO.AI",
       description:
         "A production-ready AI Interview Agent SaaS — upload your resume, get AI-generated technical & HR questions, and receive intelligent feedback. Credit-based Razorpay payments, Firebase Google Auth with JWT-secured routes, and an MVC-structured Express.js + MongoDB backend.",
     },
     {
       href: "https://ai-resume-builder-328.pages.dev/",
-      src: "/ai-resume-builder.png",
+      src: "/intervio.png",
       title: "AI Resume Builder",
       description:
         "An AI-powered SaaS platform using the OpenAI API for intelligent resume content generation, cutting resume creation time by 40%. Multi-tenant Clerk Auth + JWT, Strapi CMS + PostgreSQL backend with 99.9% uptime, and real-time PDF export in under 30 seconds.",
