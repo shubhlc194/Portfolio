@@ -6,25 +6,18 @@ import Link from "next/link";
 const Projects = () => {
   const projects = [
     {
-      href: "https://metapong.xyz",
-      src: "/sc",
-      title: "Metapong",
+      href: "https://intervio-ai-bqpv.vercel.app/",
+      src: "/intervio.png",
+      title: "INTERVIO.AI",
       description:
-        "Metapong is an immersive web-based game that blends interactive animations and 3D elements on the XFI ecosystem. It delivers a visually dynamic experience.",
+        "A production-ready AI Interview Agent SaaS — upload your resume, get AI-generated technical & HR questions, and receive intelligent feedback. Credit-based Razorpay payments, Firebase Google Auth with JWT-secured routes, and an MVC-structured Express.js + MongoDB backend.",
     },
     {
-      href: "https://remex-1.vercel.app/",
-      src: "/remex.png",
-      title: "Remex Trade",
+      href: "https://ai-resume-builder-328.pages.dev/",
+      src: "/ai-resume-builder.png",
+      title: "AI Resume Builder",
       description:
-        "REMEX Trade is an advanced platform designed for efficient trading and financial analysis, offering state-of-the-art tools and insights to empower traders.",
-    },
-    {
-      href: "https://monodrome2.vercel.app/",
-      src: "/megadrome.png",
-      title: "Megadrome",
-      description:
-        "Megadrome Finance is a next-generation AMM that combines the best of Curve, Convex, and Uniswap, designed to serve as Optimism's central liquidity hub.",
+        "An AI-powered SaaS platform using the OpenAI API for intelligent resume content generation, cutting resume creation time by 40%. Multi-tenant Clerk Auth + JWT, Strapi CMS + PostgreSQL backend with 99.9% uptime, and real-time PDF export in under 30 seconds.",
     },
   ];
 
