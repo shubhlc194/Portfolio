@@ -210,28 +210,14 @@ export const Skill_data = [
 
   export const experiences = [
     {
-      "title": "Frontend Developer",
-      "company_name": "MemeIndex (Freelance)",
+      "title": "Web Developer Intern",
+      "company_name": "The Developers Arena",
       "icon": "meta",
       "iconBg": "#E6DEDD",
-      "date": "Feb 2025 - Present",
+      "date": "Aug 2025 - Sep 2025",
       "points": [
-        "Building an interactive and scalable frontend using Next.js, TypeScript, and Tailwind CSS.",
-        "Developing a Telegram Mini App (TMA) using BotFather to enhance user engagement within the TON ecosystem.",
-        "Integrating smart contracts with the TON Connect SDK for seamless blockchain interactions.",
-        "Optimizing performance and UI/UX to improve accessibility and onboarding for new users.",
-        "Collaborating with the team to refine the product and prepare for fundraising efforts."
+        "Applied Agile/Scrum within a cross-functional team — sprint planning, Git-based code reviews, and iterative delivery, reducing release cycle time by 25%.",
+        "Delivered 2+ responsive web interfaces using HTML5, CSS3, and JavaScript, contributing to live production pages with cross-browser compatibility."
       ]
     },
-      
-   
-    
-    
-      
-   
   ];
-  
-  
-  
-  
-  
